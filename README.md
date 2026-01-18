@@ -11,10 +11,10 @@ ShareAcademia is a Java-based application designed for managing student academic
 ## Screenshots
 
 - **Student Details**:
-  ![Student Details](https://github.com/tanishpoddar/ShareAcademia/blob/main/screenshots/screenshot1.jpg)
+  ![Student Details](https://github.com/tanisheesh/ShareAcademia/blob/main/screenshots/screenshot1.jpg)
 
 - **GPA Calculator**:
-  ![GPA Calculator](https://github.com/tanishpoddar/ShareAcademia/blob/main/screenshots/screenshot2.jpg)
+  ![GPA Calculator](https://github.com/tanisheesh/ShareAcademia/blob/main/screenshots/screenshot2.jpg)
 
 
 ## Prerequisites
